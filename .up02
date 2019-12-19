@@ -3,14 +3,6 @@
 cd
 cd SG
 cd .up
-mv .up15 .up16
-mv .up14 .up15
-mv .up13 .up14
-mv .up12 .up13
-mv .up11 .up12
-mv .up10 .up11
-mv .up09 .up10
-mv .up08 .up09
 mv .up07 .up08
 mv .up06 .up07
 mv .up05 .up06
@@ -18,4 +10,4 @@ mv .up04 .up05
 mv .up03 .up04
 mv .up02 .up03
 mv .up01 .up02
-mv .up16 .up01
+mv .up08 .up01
